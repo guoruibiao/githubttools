@@ -4,4 +4,4 @@ some trick code
 ## timemap ➕ location
 abortion :(
 
-It's too long for crawling-parsing-rendering, some times costs 20 seconds. Just a toe demonstration code.
+It's too long for crawling-parsing-rendering, some times costs 20 seconds. Just a toy demonstration code.
